@@ -11,11 +11,44 @@ Music & gaming enthusiast. Linux lover — *"who needs windows when you have Pro
 ---
 
 ```bash
-$ tech --stack
+$ tech --languages
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongo,docker,js,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,js&theme=dark" />
+</p>
+
+```bash
+$ tech --frameworks
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,react&theme=dark" />
+  <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+</p>
+
+```bash
+$ tech --databases
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongo,redis,sqlite,postgres&theme=dark" />
+</p>
+
+```bash
+$ tech --devops
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,rabbitmq&theme=dark" />
+</p>
+
+```bash
+$ tech --tools
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,git,linux&theme=dark" />
 </p>
 
 ---
