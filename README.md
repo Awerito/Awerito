@@ -57,9 +57,11 @@ $ tech --tools
 $ spotify --now-playing
 ```
 
-<a href="https://selfhoardify.grye.org">
-  <img src="https://selfhoardify.grye.org/spotify/now-playing.svg" alt="Spotify Now Playing" />
-</a>
+<p align="center">
+  <a href="https://selfhoardify.grye.org">
+    <img src="https://selfhoardify.grye.org/spotify/now-playing.svg" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
@@ -67,12 +69,9 @@ $ spotify --now-playing
 $ github --stats
 ```
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awerito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awerito&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Awerito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awerito&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
