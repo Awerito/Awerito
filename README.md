@@ -54,12 +54,12 @@ $ tech --tools
 ---
 
 ```bash
-$ spotify --now-playing
+$ spotify --history
 ```
 
 <p align="center">
   <a href="https://selfhoardify.grye.org">
-    <img src="https://selfhoardify.grye.org/spotify/now-playing.svg" alt="Spotify Now Playing" />
+    <img src="/dashboard/today/grid.svg" alt="Spotify History" />
   </a>
 </p>
 
