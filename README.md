@@ -59,7 +59,7 @@ $ spotify --history
 
 <p align="center">
   <a href="https://selfhoardify.grye.org">
-    <img src="https://selfhoardify.grye.org/dashboard/today/grid.svg" alt="Spotify History" />
+    <img src="https://selfhoardify.grye.org/dashboard/grid.svg" alt="Spotify History" />
   </a>
 </p>
 
