@@ -70,8 +70,8 @@ $ github --stats
 ```
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Awerito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awerito&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.grye.org/api?username=Awerito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.grye.org/api/top-langs/?username=Awerito&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
