@@ -81,7 +81,7 @@ $ life --progress
 ```
 
 <!-- LIFE-PROGRESS:START -->
-⏳ Week 1,505 of 4,142 | ███████░░░░░░░░░░░░░ | 36.3% (data: 2024)
+⏳ Week 1,506 of 4,129 | ███████░░░░░░░░░░░░░ | 36.5%
 <!-- LIFE-PROGRESS:END -->
 
 ---
